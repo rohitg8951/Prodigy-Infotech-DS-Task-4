@@ -6,8 +6,7 @@ This repository contains **Task 4** of the Data Science Internship under **Prodi
 To analyze the sentiment polarity of text data and visualize sentiment patterns using graphical tools. The goal is to classify text as **positive**, **negative**, or **neutral** and represent the results through meaningful visualizations that highlight overall sentiment trends.
 
 ## Files
-- `Ds_Task4.ipynb`
-- - <a>[Ds_Task4.ipynb ](https://github.com/rohitg8951/Prodigy-Infotech-DS-Task-4/blob/main/DS_Task4.ipynb)</a>
+- <a>[Ds_Task4.ipynb ](https://github.com/rohitg8951/Prodigy-Infotech-DS-Task-4/blob/main/DS_Task4.ipynb)</a>
 - <a>[twitter_training.csv ](https://github.com/rohitg8951/Prodigy-Infotech-DS-Task-4/blob/main/twitter_training.csv)</a>
 
 ## Tools and Libraries Used
